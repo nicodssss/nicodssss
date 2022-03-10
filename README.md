@@ -21,15 +21,18 @@ Soy una persona con una amplia capacidad de aprendizaje, aplicable en mi día a 
 
 **¿Mis proyectos?** 👩‍💻
 
-**DOGS APP**- Desarrollo de un SPA (Single Page Application) utilizando las siguientes tecnologias: 
-**Front-End**: React | Redux | Hooks | HTML | CSS Module.
-**Back-End**: Node.JS | Express.js
-**Base de datos**: PostgreSQL | Sequalize.
-Algunas de las particularidades de la aplicacion son:
-- Posibilidad de aplicar distintos criterios de filtrado a las razas que se muestran en la pagina.
-- Búsqueda de razas a través de un Search Bar.
-- Posibilidad del usuario de agregar nuevas razas a través de un formulario controlado.
-- Visibilizar el detalle de cada raza, como puede ser su pezo, su estatura, su expectativa de vida, etc.
+```javascript
+      const MyProjects = {
+          DogsApp: {
+                info: 'Desarrollo de un SPA (Single Page Application)'
+                technologies: {
+                    frontend: ['JavaScript', 'CSS.modules', 'HTML', 'Redux', 'React', 'React-Redux'],
+                    backend: ['Node.JS', 'Express.js']
+                    database: ['PostgreSQL', 'Sequelize'] 
+                    }    
+      }
+      }
+ ```
 
 **Podes encontrarme tambien en 👇**
 
